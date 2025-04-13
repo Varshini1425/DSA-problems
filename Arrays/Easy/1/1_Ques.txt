@@ -1,0 +1,23 @@
+/*
+Problem: Find the Largest Element in an Array
+
+Description:
+Given an array of integers, write a function to find and return the largest element in the array.
+
+Function Signature:
+public static int findLargest(int[] arr)
+
+Input:
+- An integer array `arr` of size `n` (1 <= n <= 10^5)
+- Each element of `arr` is in the range [1, 10^9]
+
+Output:
+- Return the largest element in the array
+
+Example:
+Input: arr = [4, 7, 8, 6, 7, 6]
+Output: 8
+
+Note:
+- You must solve this in O(n) time.
+*/
